@@ -1,0 +1,6 @@
+Total Canada CS jobs: 9
+Distribution:
+ - company_type: {'Mid-size/Other': 6, 'Startup': 2, 'FAANG': 1}
+ - seniority_level: {'Mid': 7, 'Senior': 1, 'Entry': 1}
+ - education: {"Bachelor's": 7, "Master's": 2}
+Avg callbacks: 13.00; Avg interviews: 6.11; Offer rate: 66.67%

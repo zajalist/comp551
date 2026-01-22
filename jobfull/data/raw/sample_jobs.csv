@@ -1,0 +1,11 @@
+id,title,company_name,location,description,requirements,experience_years,education,callbacks,interviews,offers
+1,Software Engineer,Google,Montreal QC Canada,Build scalable systems in Python and C++ - work with GCP.,Python; C++; GCP; Distributed Systems,2,Bachelor's,20,10,2
+2,Data Scientist,StartupX,Montreal QC Canada,Analyze data - build ML models; NLP; SQL; Python.,Python; SQL; NLP; scikit-learn,1,Master's,15,7,1
+3,Backend Developer,MidCorp,Montréal QC Canada,Design REST APIs; PostgreSQL; Docker; AWS.,Java; Spring; PostgreSQL; Docker; AWS,3,Bachelor's,10,5,1
+4,Frontend Developer,FAANGY,Montreal QC Canada,React; TypeScript; UX; testing.,JavaScript; React; TypeScript; Jest,2,Bachelor's,12,6,1
+5,IT Support Specialist,LocalBiz,Montreal QC Canada,Troubleshoot hardware/software; tickets.,Hardware; Windows; Customer Support,2,Diploma,5,1,0
+6,Machine Learning Engineer,BigTechZ,Montreal QC Canada,Deep learning; PyTorch; MLOps; cloud.,Python; PyTorch; MLOps; Azure,4,Master's,18,9,2
+7,Software Engineer,SmallCo,Quebec City QC Canada,Generalist dev; Python; SQL.,Python; SQL; Flask,1,Bachelor's,8,3,0
+8,Senior Data Engineer,StartupY,Montreal QC Canada,ETL; Spark; AWS; Docker.,Python; Spark; AWS; Docker,6,Bachelor's,14,8,2
+9,Junior Developer,IndieDev,Montreal QC Canada,Learn and contribute to codebase; mentorship.,Python; Git; Testing,0,Bachelor's,9,3,0
+10,Data Analyst,AnalyticsHub,Montréal QC Canada,Dashboards; SQL; Excel; Power BI.,SQL; Excel; Power BI,2,Bachelor's,11,4,0

@@ -1,0 +1,601 @@
+id,title,company_name,location,description,requirements,experience_years,education,callbacks,interviews,offers
+1,Backend Developer,DevWorks,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,c++; kubernetes; mongodb; java; python; graphql; react,0,Bachelor's,3,5,0
+2,Mobile Developer,Apple,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,pytorch; tensorflow; typescript,5,Bachelor's,9,3,1
+3,ML Engineer,Meta,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,numpy; aws; docker,2,Bachelor's,13,8,1
+4,Data Scientist,AlgoHub,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,java; git; vue,5,Bachelor's,11,0,0
+5,Backend Developer,Netflix,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,pandas; rest; git; linux; c++,3,Master's,13,4,0
+6,Frontend Developer,IBM,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,vue; git; sql; sklearn; pytorch; spark; java,0,Diploma,10,5,0
+7,Data Scientist,Apple,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,mysql; airflow; linux; aws; javascript; angular,5,Bachelor's,7,7,0
+8,Data Engineer,IBM,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,azure; gcp; c++; pytorch,4,PhD,12,5,0
+9,Data Engineer,Meta,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,spark; python; git; numpy; c#; airflow; docker,1,Bachelor's,11,5,0
+10,Data Scientist,Amazon,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,azure; pytorch; typescript; rest; c#,0,Diploma,12,3,0
+11,Full-Stack Developer,Microsoft,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,terraform; sql; gcp,3,Bachelor's,5,9,0
+12,Data Scientist,Google,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,c++; numpy; gcp,0,Bachelor's,14,0,0
+13,Frontend Developer,CloudSpark,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,graphql; react; docker; pytorch; numpy; pandas,2,Bachelor's,18,5,0
+14,ML Engineer,Snowflake,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,sql; python; kubernetes,4,Bachelor's,5,4,1
+15,Software Engineer,Meta,Montréal QC Canada,Software Engineer working on services; cloud; data; systems.,react; docker; javascript; numpy; kubernetes; sklearn,6,Master's,12,1,0
+16,Full-Stack Developer,Meta,Vancouver BC Canada,Full-Stack Developer working on services; cloud; data; systems.,aws; spark; numpy; java; git; linux,3,Bachelor's,12,5,0
+17,ML Engineer,Apple,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,vue; spark; c++; aws; tensorflow; docker,0,Bachelor's,12,7,0
+18,Software Engineer,NorthTech,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,gcp; react; spark; mysql; java; typescript,7,Bachelor's,1,9,0
+19,DevOps Engineer,IBM,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,javascript; react; nodejs; rest; java; kubernetes,3,Master's,4,5,0
+20,Software Engineer,Shopify,Halifax NS Canada,Software Engineer working on services; cloud; data; systems.,java; graphql; azure; c++,2,Master's,11,4,1
+21,Full-Stack Developer,Meta,Edmonton AB Canada,Full-Stack Developer working on services; cloud; data; systems.,mongodb; git; kubernetes,5,Bachelor's,10,3,1
+22,ML Engineer,Netflix,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,aws; sql; rest; pytorch; c++,2,Master's,16,5,0
+23,Backend Developer,Snowflake,Vancouver BC Canada,Backend Developer working on services; cloud; data; systems.,postgresql; nodejs; typescript; aws,2,Bachelor's,6,6,0
+24,Mobile Developer,CloudSpark,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,graphql; airflow; javascript,3,Bachelor's,9,9,0
+25,Frontend Developer,Netflix,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,azure; gcp; angular; airflow; rest,3,Master's,16,5,0
+26,Data Scientist,Google,Toronto ON Canada,Data Scientist working on services; cloud; data; systems.,typescript; numpy; aws; docker; pandas,2,Bachelor's,9,5,1
+27,Frontend Developer,Google,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,postgresql; airflow; rest; tensorflow; spark,6,Bachelor's,12,7,0
+28,Backend Developer,NorthTech,Ottawa ON Canada,Backend Developer working on services; cloud; data; systems.,numpy; javascript; vue; spark; typescript; tensorflow; sklearn,3,Master's,10,4,0
+29,ML Engineer,NorthTech,Edmonton AB Canada,ML Engineer working on services; cloud; data; systems.,mysql; spark; java,3,Master's,12,5,0
+30,DevOps Engineer,Netflix,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,python; git; react; mysql,5,Master's,7,8,0
+31,Data Scientist,CloudSpark,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,c#; airflow; angular,3,Master's,7,7,0
+32,Backend Developer,IBM,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,terraform; azure; c#; mysql; kubernetes; react,6,Master's,10,8,1
+33,Mobile Developer,Microsoft,Montréal QC Canada,Mobile Developer working on services; cloud; data; systems.,numpy; airflow; nodejs,4,Diploma,7,2,0
+34,Data Scientist,Amazon,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,git; numpy; airflow; typescript; terraform; kubernetes,0,Master's,8,7,1
+35,Data Scientist,IBM,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,azure; gcp; tensorflow; airflow,2,Master's,14,8,0
+36,Data Scientist,CloudSpark,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,git; nodejs; vue; tensorflow,2,Bachelor's,10,5,0
+37,DevOps Engineer,AlgoHub,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,gcp; mysql; vue; javascript; linux; pandas,4,Bachelor's,6,8,0
+38,Backend Developer,Apple,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,aws; java; docker; vue; c#; graphql; javascript,0,Diploma,12,2,0
+39,ML Engineer,DataNova,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,airflow; typescript; numpy; spark; gcp; aws,3,Master's,14,5,0
+40,Mobile Developer,CloudSpark,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,vue; angular; sql; airflow; docker,1,Bachelor's,12,5,0
+41,Frontend Developer,Meta,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,mysql; airflow; pytorch; kubernetes; pandas; python,2,Bachelor's,10,7,0
+42,Software Engineer,Netflix,Ottawa ON Canada,Software Engineer working on services; cloud; data; systems.,docker; numpy; rest; graphql; tensorflow; terraform,0,Master's,14,3,0
+43,DevOps Engineer,IBM,Toronto ON Canada,DevOps Engineer working on services; cloud; data; systems.,rest; javascript; terraform; docker; python; mysql,2,Master's,11,2,1
+44,Data Engineer,AlgoHub,Montreal QC Canada,Data Engineer working on services; cloud; data; systems.,sql; react; aws; graphql; spark; pytorch,1,Bachelor's,12,3,0
+45,Data Engineer,AlgoHub,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,vue; linux; c++; pytorch; graphql,0,Bachelor's,5,2,0
+46,Full-Stack Developer,DataNova,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; graphql; react,0,Bachelor's,6,5,0
+47,Backend Developer,Netflix,Montreal QC Canada,Backend Developer working on services; cloud; data; systems.,mysql; pandas; react; c++; kubernetes; rest,0,Bachelor's,15,5,0
+48,Data Scientist,NorthTech,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,postgresql; docker; mongodb,0,PhD,9,4,0
+49,Software Engineer,AlgoHub,Edmonton AB Canada,Software Engineer working on services; cloud; data; systems.,pandas; javascript; mongodb; typescript; numpy; azure,0,Bachelor's,16,6,0
+50,Mobile Developer,Shopify,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,sql; spark; vue; sklearn; rest,2,Master's,17,7,0
+51,DevOps Engineer,DataNova,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,react; postgresql; tensorflow; angular; sql; spark,1,Bachelor's,10,7,0
+52,Software Engineer,Apple,Quebec City QC Canada,Software Engineer working on services; cloud; data; systems.,docker; pytorch; vue; pandas; gcp; linux,0,Master's,9,3,1
+53,Data Scientist,IBM,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,postgresql; mongodb; numpy; docker; sql; graphql; pandas,1,Bachelor's,8,3,0
+54,Full-Stack Developer,Meta,Ottawa ON Canada,Full-Stack Developer working on services; cloud; data; systems.,react; numpy; gcp; angular,3,Diploma,8,0,0
+55,Data Scientist,AlgoHub,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,javascript; angular; java; airflow; docker; nodejs; pandas,0,Bachelor's,10,7,0
+56,Backend Developer,DataNova,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,typescript; graphql; java; angular; spark,0,Bachelor's,2,5,0
+57,Backend Developer,CloudSpark,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,vue; c#; docker,4,Bachelor's,1,5,0
+58,Full-Stack Developer,IBM,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,mongodb; nodejs; kubernetes; terraform; java; spark; numpy,0,Bachelor's,15,7,0
+59,Data Scientist,Amazon,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,gcp; nodejs; java; vue; rest; pandas; sklearn,0,Bachelor's,13,4,0
+60,Data Scientist,CloudSpark,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,docker; vue; linux,4,Bachelor's,12,6,1
+61,Software Engineer,NorthTech,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,aws; pandas; nodejs,1,Master's,8,3,0
+62,DevOps Engineer,Meta,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,terraform; angular; python; c++; vue,0,Master's,17,4,0
+63,Software Engineer,DataNova,Calgary AB Canada,Software Engineer working on services; cloud; data; systems.,typescript; kubernetes; mongodb; linux; sklearn,0,Master's,11,4,0
+64,ML Engineer,CloudSpark,Ottawa ON Canada,ML Engineer working on services; cloud; data; systems.,pandas; gcp; nodejs; git; mysql; pytorch,0,Bachelor's,5,4,0
+65,ML Engineer,NorthTech,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,aws; mongodb; java; react; azure; postgresql; terraform,5,Bachelor's,9,5,0
+66,Full-Stack Developer,Snowflake,Calgary AB Canada,Full-Stack Developer working on services; cloud; data; systems.,c#; python; linux; terraform; tensorflow; vue,0,Bachelor's,9,3,1
+67,Data Engineer,Apple,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,gcp; rest; pandas; nodejs,5,Diploma,11,3,0
+68,DevOps Engineer,Shopify,Montréal QC Canada,DevOps Engineer working on services; cloud; data; systems.,azure; numpy; airflow; javascript; c++; angular; pytorch,2,Bachelor's,11,3,0
+69,Mobile Developer,AlgoHub,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,spark; javascript; aws; docker; gcp; postgresql,1,Master's,5,3,0
+70,ML Engineer,DevWorks,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,java; sql; numpy; gcp; pandas; tensorflow,2,Bachelor's,1,8,0
+71,Frontend Developer,Google,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,c#; azure; aws; python; numpy; javascript,0,Diploma,11,2,1
+72,DevOps Engineer,Microsoft,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,spark; sql; git,4,Bachelor's,12,3,0
+73,DevOps Engineer,Google,Quebec City QC Canada,DevOps Engineer working on services; cloud; data; systems.,numpy; c++; mongodb; c#,2,Bachelor's,7,5,1
+74,Frontend Developer,Google,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,postgresql; mongodb; javascript; vue; azure,0,Master's,5,6,1
+75,Frontend Developer,DataNova,Vancouver BC Canada,Frontend Developer working on services; cloud; data; systems.,vue; aws; linux; angular,6,Master's,19,2,0
+76,DevOps Engineer,CloudSpark,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,kubernetes; nodejs; linux; graphql; mongodb,3,Bachelor's,8,3,0
+77,Data Engineer,Meta,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,python; sklearn; git; mysql; angular,0,Bachelor's,4,9,0
+78,Software Engineer,DevWorks,Halifax NS Canada,Software Engineer working on services; cloud; data; systems.,pytorch; tensorflow; vue; terraform; postgresql,3,Diploma,10,6,0
+79,Frontend Developer,CloudSpark,Vancouver BC Canada,Frontend Developer working on services; cloud; data; systems.,c++; rest; nodejs; sql,1,Bachelor's,12,5,1
+80,Mobile Developer,Snowflake,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,angular; rest; sklearn; graphql,2,Bachelor's,3,5,0
+81,ML Engineer,Shopify,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,graphql; spark; tensorflow; docker; postgresql; c++,8,Bachelor's,8,5,0
+82,DevOps Engineer,CloudSpark,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,sklearn; linux; postgresql; c#; git; vue,2,Bachelor's,4,5,0
+83,ML Engineer,Apple,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,c#; javascript; java; airflow; nodejs; gcp,0,Master's,11,6,0
+84,Data Engineer,Microsoft,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,mongodb; kubernetes; numpy; airflow; javascript; graphql; linux,3,Master's,14,6,0
+85,Data Scientist,DevWorks,Toronto ON Canada,Data Scientist working on services; cloud; data; systems.,git; postgresql; docker,5,Bachelor's,7,7,1
+86,Data Scientist,Meta,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,git; react; linux,4,Master's,3,1,1
+87,ML Engineer,Amazon,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,react; sklearn; spark; vue; sql; pytorch; javascript,3,Bachelor's,6,5,0
+88,Frontend Developer,Snowflake,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,javascript; python; postgresql,0,Bachelor's,10,3,0
+89,Frontend Developer,Google,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,pytorch; postgresql; azure; kubernetes; c#; aws,0,Bachelor's,11,0,1
+90,Mobile Developer,Shopify,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,spark; mysql; mongodb; git; c#; gcp,2,Bachelor's,9,3,0
+91,ML Engineer,Amazon,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,mysql; terraform; azure; nodejs; aws,0,Bachelor's,6,3,0
+92,Backend Developer,DevWorks,Quebec City QC Canada,Backend Developer working on services; cloud; data; systems.,mongodb; sql; sklearn; aws,5,Bachelor's,4,7,0
+93,ML Engineer,Microsoft,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,c++; mongodb; c#,5,Master's,10,5,1
+94,Software Engineer,Snowflake,Halifax NS Canada,Software Engineer working on services; cloud; data; systems.,postgresql; spark; git; pytorch; mongodb; numpy,1,Master's,13,5,0
+95,Backend Developer,Snowflake,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,postgresql; c#; pytorch; angular; kubernetes; vue; mongodb,0,Master's,12,8,0
+96,Mobile Developer,DataNova,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,python; typescript; angular; pandas; pytorch,2,Master's,9,6,1
+97,Frontend Developer,CloudSpark,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,react; mysql; mongodb; aws; sql; typescript; postgresql,2,Bachelor's,9,4,0
+98,Backend Developer,Amazon,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,angular; aws; git,1,Master's,5,6,0
+99,Full-Stack Developer,Meta,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,git; nodejs; java; vue; mysql; terraform; airflow,2,Bachelor's,5,6,1
+100,Frontend Developer,Netflix,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,typescript; javascript; mysql; docker; pandas; vue,3,Bachelor's,2,5,0
+101,Backend Developer,AlgoHub,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,kubernetes; mongodb; mysql; pandas; linux,2,Bachelor's,10,4,1
+102,ML Engineer,NorthTech,Montreal QC Canada,ML Engineer working on services; cloud; data; systems.,c++; mongodb; spark; c#; vue,6,Bachelor's,6,5,1
+103,Data Scientist,Apple,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,react; airflow; pytorch; postgresql; spark; numpy; linux,2,Bachelor's,10,5,1
+104,Full-Stack Developer,DataNova,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,typescript; graphql; pytorch,0,Master's,7,3,0
+105,DevOps Engineer,CloudSpark,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,aws; c++; gcp; linux,4,Master's,6,4,1
+106,Mobile Developer,Netflix,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,sklearn; nodejs; c++; linux; spark,4,Bachelor's,12,5,0
+107,Data Engineer,DataNova,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,linux; react; sql; terraform; gcp; azure; javascript,4,Master's,7,7,0
+108,ML Engineer,Snowflake,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,aws; azure; rest; terraform; typescript; postgresql,2,Bachelor's,8,6,0
+109,ML Engineer,Google,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,nodejs; angular; numpy; spark; git; terraform,3,Master's,11,6,0
+110,Frontend Developer,Netflix,Ottawa ON Canada,Frontend Developer working on services; cloud; data; systems.,javascript; terraform; pandas; c++; nodejs; docker,5,Master's,5,7,0
+111,Mobile Developer,CloudSpark,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,sql; graphql; pytorch; gcp,4,Bachelor's,10,8,1
+112,Data Scientist,Snowflake,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,java; git; sql; pytorch; terraform; javascript; sklearn,9,Master's,8,6,0
+113,Frontend Developer,Google,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,pytorch; numpy; tensorflow; aws; vue,3,Master's,14,3,0
+114,DevOps Engineer,Microsoft,Montréal QC Canada,DevOps Engineer working on services; cloud; data; systems.,aws; pytorch; nodejs; rest; mysql; azure,2,Bachelor's,0,4,0
+115,Frontend Developer,Google,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,spark; c#; nodejs; c++; pytorch; typescript; angular,2,Master's,9,3,0
+116,Backend Developer,AlgoHub,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,mongodb; java; mysql,3,Bachelor's,7,4,0
+117,ML Engineer,Google,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,javascript; java; nodejs; rest,2,Bachelor's,6,6,1
+118,DevOps Engineer,DataNova,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,react; sklearn; javascript; docker; graphql,0,Bachelor's,9,2,1
+119,Data Scientist,Netflix,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,c#; sklearn; airflow,0,Bachelor's,6,2,0
+120,Full-Stack Developer,Netflix,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; mongodb; typescript; git,3,Master's,8,3,0
+121,Mobile Developer,Snowflake,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,linux; mysql; postgresql,6,Bachelor's,11,5,0
+122,ML Engineer,DevWorks,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,numpy; pytorch; sql; javascript; java; postgresql; docker,3,Bachelor's,6,7,0
+123,DevOps Engineer,CloudSpark,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,nodejs; react; java,0,Bachelor's,0,6,0
+124,Data Scientist,IBM,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,java; pytorch; linux; react; nodejs,2,Bachelor's,6,7,0
+125,ML Engineer,Meta,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,sql; typescript; gcp; pandas; airflow; postgresql,1,Bachelor's,13,7,0
+126,Data Engineer,IBM,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,nodejs; sql; c#; c++; rest; git; graphql,2,Master's,8,7,0
+127,DevOps Engineer,Shopify,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,linux; tensorflow; graphql; java; c++,0,Master's,21,4,0
+128,Frontend Developer,Amazon,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,java; javascript; c++; vue; pytorch; linux,4,Master's,8,6,0
+129,Frontend Developer,Microsoft,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,sql; linux; angular; vue; c#; python,1,Master's,8,4,0
+130,Mobile Developer,Netflix,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,terraform; nodejs; pandas; rest,1,Master's,13,5,1
+131,Backend Developer,Amazon,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,git; postgresql; pandas; c++; docker,7,Bachelor's,13,1,0
+132,Frontend Developer,Snowflake,Ottawa ON Canada,Frontend Developer working on services; cloud; data; systems.,vue; tensorflow; gcp; python,0,PhD,6,7,0
+133,Mobile Developer,DataNova,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,azure; mongodb; pytorch; rest; sklearn; kubernetes,4,Bachelor's,14,9,0
+134,DevOps Engineer,CloudSpark,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,linux; kubernetes; typescript; pytorch; javascript; mongodb; azure,4,Bachelor's,11,4,1
+135,Frontend Developer,Amazon,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,airflow; nodejs; spark; c++; angular; react; linux,0,Diploma,19,6,0
+136,Mobile Developer,Snowflake,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,javascript; typescript; git; terraform; numpy; spark; sql,2,Bachelor's,13,2,0
+137,Software Engineer,Google,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,mongodb; terraform; linux; python; gcp; airflow; docker,5,Master's,13,4,0
+138,Data Engineer,Shopify,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,mongodb; gcp; aws; react; sql; terraform,3,Bachelor's,15,8,0
+139,ML Engineer,Amazon,Edmonton AB Canada,ML Engineer working on services; cloud; data; systems.,angular; aws; vue,3,Bachelor's,12,5,0
+140,Data Engineer,AlgoHub,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,numpy; sql; react; pytorch; typescript; gcp; azure,6,Master's,2,6,0
+141,Backend Developer,Snowflake,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,gcp; terraform; airflow; sklearn; linux,2,Bachelor's,9,4,1
+142,Backend Developer,Amazon,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,postgresql; java; mysql; rest; kubernetes; docker,4,Master's,12,7,1
+143,Mobile Developer,NorthTech,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,c#; mysql; postgresql; tensorflow,1,Master's,6,7,0
+144,Frontend Developer,DataNova,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,java; javascript; pandas,2,Bachelor's,7,7,0
+145,Mobile Developer,Microsoft,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,kubernetes; sql; azure; sklearn; docker,4,Bachelor's,13,2,0
+146,Software Engineer,Microsoft,Ottawa ON Canada,Software Engineer working on services; cloud; data; systems.,nodejs; tensorflow; airflow; numpy; pandas; linux; python,3,Diploma,7,4,0
+147,Full-Stack Developer,DataNova,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,javascript; sklearn; git; vue; java; kubernetes,2,Bachelor's,3,6,1
+148,ML Engineer,Amazon,Edmonton AB Canada,ML Engineer working on services; cloud; data; systems.,pytorch; terraform; gcp; spark; numpy; sklearn; java,2,Bachelor's,9,2,0
+149,DevOps Engineer,IBM,Quebec City QC Canada,DevOps Engineer working on services; cloud; data; systems.,git; pytorch; spark; numpy; linux,4,Bachelor's,8,5,0
+150,Full-Stack Developer,Snowflake,Calgary AB Canada,Full-Stack Developer working on services; cloud; data; systems.,pytorch; nodejs; pandas; react; gcp,0,Diploma,8,6,0
+151,Data Scientist,Meta,Calgary AB Canada,Data Scientist working on services; cloud; data; systems.,graphql; pytorch; tensorflow; javascript; nodejs,4,Bachelor's,8,10,1
+152,DevOps Engineer,DevWorks,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,angular; rest; docker; pandas; graphql; javascript; c#,3,Bachelor's,6,3,0
+153,Mobile Developer,CloudSpark,Montréal QC Canada,Mobile Developer working on services; cloud; data; systems.,python; graphql; docker; rest,0,Bachelor's,13,6,0
+154,DevOps Engineer,CloudSpark,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,nodejs; linux; java; rest; pytorch,1,Diploma,14,6,0
+155,Software Engineer,IBM,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,tensorflow; gcp; typescript; numpy; nodejs; java,10,Bachelor's,3,7,1
+156,ML Engineer,Shopify,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,airflow; javascript; spark; azure; aws; angular,6,Bachelor's,11,6,1
+157,DevOps Engineer,DevWorks,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,typescript; terraform; spark; linux,0,Master's,4,7,0
+158,Backend Developer,CloudSpark,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,sql; rest; vue; python; angular; mysql,0,PhD,10,8,0
+159,Data Scientist,DevWorks,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,aws; nodejs; typescript,2,Bachelor's,12,3,0
+160,Data Scientist,CloudSpark,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,vue; graphql; javascript; gcp; airflow; aws; numpy,6,Bachelor's,14,5,0
+161,DevOps Engineer,NorthTech,Quebec City QC Canada,DevOps Engineer working on services; cloud; data; systems.,azure; aws; pandas,3,Bachelor's,16,2,1
+162,Mobile Developer,Apple,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,spark; azure; aws; c#; git,5,Bachelor's,11,7,1
+163,Mobile Developer,NorthTech,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,aws; git; tensorflow; nodejs; numpy; python; mysql,0,Bachelor's,12,4,0
+164,Backend Developer,IBM,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,rest; airflow; c++,3,Bachelor's,14,4,0
+165,Frontend Developer,NorthTech,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,aws; spark; mysql; airflow; c++; git,4,Master's,9,9,1
+166,ML Engineer,Amazon,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,numpy; vue; sklearn; python,5,Bachelor's,11,0,0
+167,Mobile Developer,Snowflake,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,rest; airflow; numpy; pytorch,2,Bachelor's,10,7,0
+168,Software Engineer,Apple,Montréal QC Canada,Software Engineer working on services; cloud; data; systems.,terraform; git; pandas; spark; java; vue,1,Bachelor's,10,3,0
+169,Full-Stack Developer,Amazon,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; terraform; pytorch; git; sklearn,3,Bachelor's,4,4,1
+170,Mobile Developer,IBM,Montréal QC Canada,Mobile Developer working on services; cloud; data; systems.,airflow; numpy; typescript; linux; git; mongodb; docker,4,Bachelor's,0,5,0
+171,Data Engineer,Microsoft,Quebec City QC Canada,Data Engineer working on services; cloud; data; systems.,gcp; vue; spark; rest; nodejs; pandas; javascript,2,Bachelor's,12,6,0
+172,Data Engineer,Snowflake,Quebec City QC Canada,Data Engineer working on services; cloud; data; systems.,sql; linux; c++; rest,0,Bachelor's,6,5,0
+173,Full-Stack Developer,Netflix,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,numpy; git; docker; react; gcp; spark; sql,3,Master's,10,3,1
+174,Full-Stack Developer,DevWorks,Vancouver BC Canada,Full-Stack Developer working on services; cloud; data; systems.,pandas; terraform; react; mysql,9,Bachelor's,14,3,0
+175,Data Engineer,Snowflake,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,c#; tensorflow; numpy; gcp; pytorch; sql,1,Bachelor's,16,6,0
+176,Full-Stack Developer,Google,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,numpy; mongodb; nodejs; javascript; react; sql; vue,0,Diploma,4,7,0
+177,ML Engineer,NorthTech,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,numpy; tensorflow; postgresql; typescript,4,Diploma,6,6,1
+178,Mobile Developer,Snowflake,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,pytorch; python; mongodb,1,Master's,13,7,1
+179,Frontend Developer,Apple,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,rest; gcp; git; graphql; python; sklearn; docker,1,Bachelor's,6,4,0
+180,Data Scientist,Netflix,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,tensorflow; rest; typescript; c#; spark; azure,0,Master's,11,6,0
+181,ML Engineer,NorthTech,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,nodejs; git; sklearn; spark,1,Bachelor's,12,10,0
+182,Software Engineer,IBM,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,linux; python; pandas,5,Bachelor's,12,7,0
+183,ML Engineer,AlgoHub,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,gcp; angular; java; c++; git; rest; docker,6,Master's,8,4,0
+184,ML Engineer,Apple,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,rest; c++; nodejs; typescript; kubernetes; vue,2,Master's,3,3,0
+185,Mobile Developer,IBM,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,numpy; postgresql; java; c#; mongodb; vue; c++,5,Bachelor's,9,3,0
+186,Data Engineer,Google,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,gcp; vue; postgresql; docker; mysql; mongodb,5,Master's,12,7,0
+187,Data Scientist,DevWorks,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,numpy; mysql; sql; postgresql,0,Bachelor's,14,5,0
+188,ML Engineer,Meta,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,docker; graphql; azure; mongodb; c#; python,0,Bachelor's,14,6,0
+189,ML Engineer,Google,Edmonton AB Canada,ML Engineer working on services; cloud; data; systems.,kubernetes; azure; typescript; git,2,Bachelor's,14,4,0
+190,DevOps Engineer,Meta,Montreal QC Canada,DevOps Engineer working on services; cloud; data; systems.,gcp; tensorflow; c++; postgresql; angular,0,Bachelor's,16,4,0
+191,Full-Stack Developer,Meta,Winnipeg MB Canada,Full-Stack Developer working on services; cloud; data; systems.,tensorflow; spark; sql; aws; airflow; mongodb,0,Bachelor's,14,6,0
+192,Frontend Developer,Microsoft,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,sql; typescript; mysql; graphql; nodejs; numpy,0,Master's,8,3,0
+193,Full-Stack Developer,IBM,Ottawa ON Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; docker; typescript; git,0,Master's,17,5,0
+194,Full-Stack Developer,NorthTech,Winnipeg MB Canada,Full-Stack Developer working on services; cloud; data; systems.,git; gcp; javascript; linux; nodejs; vue,0,Master's,9,6,0
+195,Data Engineer,Shopify,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,docker; java; tensorflow; postgresql; pandas; airflow,4,Bachelor's,13,2,1
+196,Full-Stack Developer,Amazon,Ottawa ON Canada,Full-Stack Developer working on services; cloud; data; systems.,graphql; pytorch; sql; tensorflow; mongodb; c#,2,Bachelor's,13,5,0
+197,Mobile Developer,DataNova,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,pandas; azure; javascript; postgresql; python; gcp; c#,1,Bachelor's,13,3,1
+198,Frontend Developer,Netflix,Ottawa ON Canada,Frontend Developer working on services; cloud; data; systems.,gcp; postgresql; graphql; c#; aws; numpy; pandas,6,Master's,9,5,1
+199,Backend Developer,AlgoHub,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,azure; typescript; docker; sql,4,Bachelor's,1,0,0
+200,Data Engineer,Amazon,Montreal QC Canada,Data Engineer working on services; cloud; data; systems.,numpy; terraform; airflow,1,Bachelor's,12,7,0
+201,Full-Stack Developer,Netflix,Montréal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,typescript; postgresql; sql; react; aws; c#; angular,3,Master's,11,4,0
+202,ML Engineer,IBM,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,postgresql; spark; aws; terraform; typescript,1,Bachelor's,12,2,0
+203,Backend Developer,Microsoft,Montreal QC Canada,Backend Developer working on services; cloud; data; systems.,mysql; mongodb; terraform; javascript; kubernetes; graphql; rest,0,Bachelor's,15,6,0
+204,Frontend Developer,Amazon,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,sklearn; aws; terraform; java; spark,4,Bachelor's,10,5,1
+205,Data Engineer,Snowflake,Quebec City QC Canada,Data Engineer working on services; cloud; data; systems.,gcp; typescript; c++; kubernetes; python; tensorflow,0,Bachelor's,10,5,0
+206,Mobile Developer,Amazon,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,docker; azure; c#; kubernetes; airflow; angular,1,Bachelor's,11,1,0
+207,Software Engineer,Snowflake,Winnipeg MB Canada,Software Engineer working on services; cloud; data; systems.,nodejs; spark; java; aws,0,Bachelor's,4,4,1
+208,Backend Developer,Apple,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,spark; pandas; terraform; linux; mongodb,8,Bachelor's,11,6,1
+209,Full-Stack Developer,DataNova,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,nodejs; kubernetes; angular; graphql; spark,1,Bachelor's,9,0,0
+210,Frontend Developer,Google,Edmonton AB Canada,Frontend Developer working on services; cloud; data; systems.,pandas; spark; javascript; vue,5,Master's,12,6,1
+211,Data Engineer,Amazon,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,mysql; azure; numpy,1,Bachelor's,12,4,0
+212,DevOps Engineer,DataNova,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,numpy; aws; linux,3,Master's,8,3,1
+213,Mobile Developer,Apple,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,sql; docker; kubernetes; javascript; spark,4,Master's,10,3,0
+214,Software Engineer,Meta,Toronto ON Canada,Software Engineer working on services; cloud; data; systems.,c#; rest; spark,3,Master's,13,7,0
+215,Data Engineer,DevWorks,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,c++; linux; postgresql; angular; git,5,Master's,18,6,0
+216,Data Scientist,IBM,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,react; gcp; c++,2,Master's,12,6,0
+217,Software Engineer,DevWorks,Toronto ON Canada,Software Engineer working on services; cloud; data; systems.,c++; vue; mysql; graphql; numpy; tensorflow,4,Bachelor's,5,6,0
+218,Frontend Developer,NorthTech,Edmonton AB Canada,Frontend Developer working on services; cloud; data; systems.,c++; azure; kubernetes; python,6,Master's,8,4,0
+219,Full-Stack Developer,IBM,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,pytorch; c#; kubernetes; numpy,3,Bachelor's,18,1,0
+220,Frontend Developer,Netflix,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,terraform; numpy; graphql; nodejs; pytorch; pandas; python,5,Bachelor's,13,2,0
+221,Mobile Developer,Snowflake,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,gcp; mysql; c#; vue,0,Bachelor's,4,2,0
+222,Software Engineer,Microsoft,Ottawa ON Canada,Software Engineer working on services; cloud; data; systems.,mongodb; postgresql; docker; git; typescript; pytorch; gcp,0,Master's,16,4,1
+223,Backend Developer,Netflix,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,linux; pandas; azure; pytorch; mongodb,1,Diploma,8,3,0
+224,Mobile Developer,Amazon,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,rest; react; tensorflow; javascript; docker; sql; mysql,0,Bachelor's,4,3,0
+225,Backend Developer,DevWorks,Calgary AB Canada,Backend Developer working on services; cloud; data; systems.,c#; aws; terraform; airflow; java; nodejs,3,Diploma,12,3,1
+226,Software Engineer,DevWorks,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,azure; tensorflow; sklearn; numpy; angular,0,Bachelor's,10,5,0
+227,Data Scientist,NorthTech,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,pandas; kubernetes; linux; c++; gcp,4,Bachelor's,12,3,0
+228,Frontend Developer,Amazon,Ottawa ON Canada,Frontend Developer working on services; cloud; data; systems.,git; numpy; c#; vue; rest; azure; python,0,Bachelor's,17,6,0
+229,DevOps Engineer,IBM,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,vue; sql; graphql; mongodb; numpy; rest,6,Bachelor's,10,5,0
+230,Mobile Developer,Amazon,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,graphql; mysql; c++,0,Bachelor's,16,2,0
+231,Data Scientist,Meta,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,numpy; terraform; vue; aws; postgresql,3,Bachelor's,15,3,0
+232,Full-Stack Developer,NorthTech,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,python; vue; docker; postgresql; linux; pandas,2,Bachelor's,17,1,1
+233,Data Engineer,Meta,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,pandas; angular; c++; java,0,PhD,15,8,0
+234,ML Engineer,DevWorks,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,linux; sklearn; mysql; c++,0,Bachelor's,8,4,0
+235,Frontend Developer,Netflix,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,sql; aws; angular; vue; c++,0,Bachelor's,4,6,0
+236,Backend Developer,Meta,Montreal QC Canada,Backend Developer working on services; cloud; data; systems.,c#; docker; postgresql; pytorch; react; aws,0,Bachelor's,9,6,1
+237,Frontend Developer,AlgoHub,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,c++; pandas; vue; graphql,3,Master's,17,3,0
+238,Data Scientist,Google,Montreal QC Canada,Data Scientist working on services; cloud; data; systems.,numpy; docker; vue; c#; aws; spark; javascript,7,Master's,11,5,0
+239,Full-Stack Developer,Apple,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; angular; sklearn; c++; python; spark; react,4,Bachelor's,6,7,1
+240,ML Engineer,Google,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,mongodb; sklearn; numpy; mysql; gcp; python; spark,5,Bachelor's,9,4,1
+241,Frontend Developer,Netflix,Calgary AB Canada,Frontend Developer working on services; cloud; data; systems.,gcp; mongodb; airflow; docker; java,1,Bachelor's,6,6,0
+242,Mobile Developer,CloudSpark,Montréal QC Canada,Mobile Developer working on services; cloud; data; systems.,mysql; tensorflow; pandas,6,Bachelor's,7,7,0
+243,Mobile Developer,IBM,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,java; tensorflow; gcp; azure; postgresql,0,Bachelor's,9,5,0
+244,Backend Developer,CloudSpark,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,pytorch; graphql; vue,0,Bachelor's,0,2,0
+245,Frontend Developer,Apple,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,pandas; postgresql; graphql,1,Master's,2,4,0
+246,DevOps Engineer,Netflix,Quebec City QC Canada,DevOps Engineer working on services; cloud; data; systems.,vue; terraform; python,0,Bachelor's,10,5,0
+247,Full-Stack Developer,Microsoft,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,javascript; kubernetes; pandas,3,Diploma,7,8,0
+248,ML Engineer,Microsoft,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,c#; sql; nodejs; rest; javascript; typescript; numpy,1,Master's,17,4,0
+249,ML Engineer,DevWorks,Montreal QC Canada,ML Engineer working on services; cloud; data; systems.,git; kubernetes; sklearn; typescript,8,Master's,7,2,0
+250,Frontend Developer,DevWorks,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,java; typescript; terraform; sql; tensorflow; airflow; vue,7,Bachelor's,9,4,0
+251,ML Engineer,Apple,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,aws; python; angular; react; vue,0,Bachelor's,2,4,0
+252,Software Engineer,IBM,Toronto ON Canada,Software Engineer working on services; cloud; data; systems.,airflow; mongodb; gcp; mysql,1,Bachelor's,7,6,0
+253,Full-Stack Developer,Shopify,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,c++; sql; typescript,0,Master's,13,6,1
+254,Backend Developer,DataNova,Ottawa ON Canada,Backend Developer working on services; cloud; data; systems.,mongodb; graphql; linux,5,Master's,14,8,1
+255,Backend Developer,Apple,Ottawa ON Canada,Backend Developer working on services; cloud; data; systems.,angular; git; nodejs; airflow; vue; c#; java,2,Bachelor's,7,3,0
+256,Software Engineer,Google,Ottawa ON Canada,Software Engineer working on services; cloud; data; systems.,gcp; react; c#; python; rest; typescript; linux,4,Bachelor's,10,6,0
+257,Data Scientist,Shopify,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,postgresql; airflow; mysql; typescript,4,Master's,13,3,0
+258,Full-Stack Developer,DataNova,Calgary AB Canada,Full-Stack Developer working on services; cloud; data; systems.,c++; git; postgresql,0,Master's,11,3,0
+259,Full-Stack Developer,Google,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; airflow; vue; gcp; nodejs; c++,4,Master's,13,2,1
+260,Mobile Developer,CloudSpark,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,typescript; graphql; react; tensorflow; airflow; javascript,7,Bachelor's,11,5,0
+261,Full-Stack Developer,AlgoHub,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,mysql; docker; sql,2,Bachelor's,2,6,0
+262,Software Engineer,DataNova,Halifax NS Canada,Software Engineer working on services; cloud; data; systems.,javascript; graphql; kubernetes; airflow; spark; pytorch,1,Bachelor's,11,4,1
+263,Backend Developer,AlgoHub,Calgary AB Canada,Backend Developer working on services; cloud; data; systems.,kubernetes; terraform; gcp; java; typescript; angular,1,Bachelor's,12,2,0
+264,Data Engineer,IBM,Toronto ON Canada,Data Engineer working on services; cloud; data; systems.,java; numpy; gcp; rest,7,Bachelor's,10,7,0
+265,Data Scientist,Netflix,Calgary AB Canada,Data Scientist working on services; cloud; data; systems.,javascript; nodejs; numpy; aws,4,Master's,0,5,0
+266,Backend Developer,Shopify,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,pytorch; azure; spark; postgresql; sklearn; java,0,Master's,7,4,0
+267,Mobile Developer,Amazon,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,sklearn; java; vue; aws,2,Bachelor's,9,7,1
+268,ML Engineer,Snowflake,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,vue; postgresql; gcp,3,Diploma,8,4,0
+269,Mobile Developer,Microsoft,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,python; mysql; java; typescript; spark,0,Master's,4,0,0
+270,Full-Stack Developer,Netflix,Montréal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,gcp; rest; javascript,1,Bachelor's,7,3,1
+271,Data Scientist,NorthTech,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,spark; postgresql; aws; angular; react; airflow,5,Master's,7,4,0
+272,Backend Developer,Snowflake,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,docker; linux; terraform; nodejs; git,7,Diploma,11,5,0
+273,ML Engineer,Netflix,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,pytorch; vue; airflow; java; tensorflow; sklearn; terraform,2,Diploma,8,3,1
+274,Software Engineer,Netflix,Winnipeg MB Canada,Software Engineer working on services; cloud; data; systems.,numpy; java; kubernetes; pandas; airflow; react,0,Bachelor's,6,7,0
+275,DevOps Engineer,Snowflake,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,c#; gcp; javascript; numpy; angular,1,Bachelor's,6,4,0
+276,ML Engineer,Apple,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,mongodb; tensorflow; airflow; sql; postgresql,1,Master's,10,6,0
+277,DevOps Engineer,AlgoHub,Toronto ON Canada,DevOps Engineer working on services; cloud; data; systems.,azure; c#; spark; git,1,Bachelor's,6,3,1
+278,Frontend Developer,Apple,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,javascript; sql; spark; pandas; typescript; pytorch,3,PhD,13,6,0
+279,ML Engineer,Google,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,gcp; tensorflow; pytorch; c++,3,Bachelor's,5,6,0
+280,Data Engineer,IBM,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,graphql; python; airflow; sql; pytorch,1,Bachelor's,11,3,0
+281,Full-Stack Developer,DevWorks,Montréal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,typescript; c++; sklearn; java; nodejs,7,Bachelor's,13,7,0
+282,Mobile Developer,IBM,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,airflow; gcp; postgresql; pytorch; react,5,PhD,15,9,0
+283,Software Engineer,Apple,Montréal QC Canada,Software Engineer working on services; cloud; data; systems.,c#; postgresql; pandas; linux,2,Bachelor's,5,5,0
+284,Mobile Developer,Google,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,linux; sklearn; python,1,Bachelor's,12,5,0
+285,Backend Developer,Netflix,Quebec City QC Canada,Backend Developer working on services; cloud; data; systems.,mongodb; git; c#; azure; angular,2,Bachelor's,5,3,0
+286,Backend Developer,DevWorks,Quebec City QC Canada,Backend Developer working on services; cloud; data; systems.,gcp; react; terraform,1,Bachelor's,10,6,0
+287,Full-Stack Developer,DevWorks,Ottawa ON Canada,Full-Stack Developer working on services; cloud; data; systems.,sql; vue; python; airflow; git; c++,0,Bachelor's,7,8,0
+288,Frontend Developer,NorthTech,Vancouver BC Canada,Frontend Developer working on services; cloud; data; systems.,airflow; angular; linux,1,Master's,11,10,0
+289,DevOps Engineer,Meta,Toronto ON Canada,DevOps Engineer working on services; cloud; data; systems.,mongodb; numpy; c#; spark; pytorch,6,Master's,7,5,1
+290,Frontend Developer,Microsoft,Ottawa ON Canada,Frontend Developer working on services; cloud; data; systems.,airflow; numpy; c++; postgresql; sklearn,5,Diploma,9,6,0
+291,DevOps Engineer,AlgoHub,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,c#; javascript; pandas; numpy,3,Master's,4,9,1
+292,Data Engineer,Shopify,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,terraform; mysql; pytorch; postgresql,7,Master's,4,2,0
+293,Frontend Developer,Shopify,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,python; pandas; spark; git; azure,1,Bachelor's,10,5,0
+294,ML Engineer,Snowflake,Quebec City QC Canada,ML Engineer working on services; cloud; data; systems.,git; numpy; vue; gcp; postgresql; graphql,1,Master's,8,3,0
+295,Mobile Developer,Google,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,spark; typescript; c++; pytorch; gcp; sql,0,Diploma,10,5,1
+296,Full-Stack Developer,CloudSpark,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,aws; tensorflow; kubernetes,6,Master's,2,6,0
+297,Backend Developer,DevWorks,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,sklearn; c++; tensorflow,1,Bachelor's,12,2,0
+298,Mobile Developer,Apple,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,postgresql; sklearn; java; vue; spark,1,Bachelor's,5,5,0
+299,DevOps Engineer,DevWorks,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,sklearn; linux; graphql; tensorflow; nodejs,2,Bachelor's,9,3,1
+300,Frontend Developer,Amazon,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,c#; angular; terraform; react; spark; graphql,5,Master's,14,4,0
+301,Full-Stack Developer,Meta,Ottawa ON Canada,Full-Stack Developer working on services; cloud; data; systems.,pytorch; airflow; aws,1,Bachelor's,6,2,0
+302,DevOps Engineer,Snowflake,Toronto ON Canada,DevOps Engineer working on services; cloud; data; systems.,sklearn; kubernetes; gcp; azure; pytorch; typescript,3,Bachelor's,9,3,0
+303,Backend Developer,CloudSpark,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,rest; pandas; pytorch; vue; angular; mysql; sql,1,Master's,10,7,1
+304,Data Engineer,DevWorks,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,spark; sql; pandas; numpy; docker; linux; react,5,Bachelor's,11,7,0
+305,ML Engineer,DevWorks,Montreal QC Canada,ML Engineer working on services; cloud; data; systems.,pandas; c#; pytorch; postgresql; docker,0,Diploma,9,2,0
+306,Data Engineer,Netflix,Quebec City QC Canada,Data Engineer working on services; cloud; data; systems.,azure; c#; python,6,Bachelor's,9,5,1
+307,Data Scientist,Netflix,Montreal QC Canada,Data Scientist working on services; cloud; data; systems.,pytorch; docker; java; postgresql,5,Bachelor's,13,5,0
+308,Mobile Developer,DevWorks,Montréal QC Canada,Mobile Developer working on services; cloud; data; systems.,tensorflow; graphql; rest; pandas; nodejs; spark; git,2,Bachelor's,13,5,0
+309,ML Engineer,Google,Quebec City QC Canada,ML Engineer working on services; cloud; data; systems.,sklearn; vue; linux; pandas; spark; airflow,0,Bachelor's,5,3,0
+310,Full-Stack Developer,Netflix,Montréal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,typescript; graphql; numpy,4,PhD,6,5,0
+311,Mobile Developer,Amazon,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,java; javascript; rest; sql,1,Master's,10,2,0
+312,Data Scientist,NorthTech,Winnipeg MB Canada,Data Scientist working on services; cloud; data; systems.,azure; vue; graphql; typescript; c++,1,Bachelor's,10,3,0
+313,Data Engineer,Microsoft,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,graphql; pytorch; terraform; azure,0,Bachelor's,13,2,0
+314,Software Engineer,CloudSpark,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,rest; terraform; vue; java; git; sql; mysql,3,Bachelor's,18,2,0
+315,Mobile Developer,Google,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,gcp; java; nodejs; linux; react; sql,4,Master's,15,0,1
+316,Mobile Developer,Google,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,spark; git; mongodb; sklearn,2,Bachelor's,14,6,0
+317,Data Engineer,DevWorks,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,java; typescript; tensorflow,2,Bachelor's,8,4,0
+318,Data Scientist,IBM,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,python; mysql; git; c#; docker,3,Bachelor's,16,5,1
+319,Software Engineer,Microsoft,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,nodejs; pytorch; rest,6,Bachelor's,7,3,0
+320,DevOps Engineer,Snowflake,Montreal QC Canada,DevOps Engineer working on services; cloud; data; systems.,nodejs; linux; javascript; graphql; git; tensorflow; numpy,0,Master's,4,1,1
+321,Mobile Developer,Meta,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,nodejs; react; numpy,0,Bachelor's,13,4,1
+322,Mobile Developer,Amazon,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,react; c#; typescript; git; tensorflow,0,Master's,9,4,0
+323,Mobile Developer,CloudSpark,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,gcp; sql; postgresql; javascript; git; linux; vue,3,Bachelor's,10,7,0
+324,ML Engineer,Shopify,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,javascript; kubernetes; rest; postgresql; tensorflow; sql; mongodb,4,Master's,12,6,0
+325,Data Engineer,AlgoHub,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,postgresql; pytorch; nodejs; gcp; docker; c#,2,Master's,14,6,0
+326,Frontend Developer,Apple,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,numpy; c++; airflow,1,Master's,15,5,1
+327,Data Engineer,Apple,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,linux; pytorch; javascript; postgresql; mysql; vue,0,Bachelor's,6,7,0
+328,Frontend Developer,Snowflake,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,python; git; vue; spark; tensorflow; terraform; rest,1,Bachelor's,12,7,0
+329,Frontend Developer,DataNova,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,java; vue; pytorch; gcp; c++,2,Diploma,5,4,0
+330,Mobile Developer,IBM,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,java; linux; sql,4,Bachelor's,18,8,0
+331,Data Scientist,DataNova,Calgary AB Canada,Data Scientist working on services; cloud; data; systems.,azure; angular; mysql,2,Bachelor's,7,6,0
+332,ML Engineer,NorthTech,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,airflow; javascript; aws; typescript; vue; c++; azure,2,Master's,8,3,1
+333,ML Engineer,DevWorks,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,gcp; git; react,4,Master's,12,2,0
+334,Full-Stack Developer,Amazon,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,java; airflow; kubernetes; javascript; graphql; typescript; angular,1,Bachelor's,14,4,0
+335,Software Engineer,Meta,Calgary AB Canada,Software Engineer working on services; cloud; data; systems.,sklearn; mongodb; terraform; javascript,0,Master's,11,6,1
+336,Mobile Developer,Amazon,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,terraform; kubernetes; c++; vue; mysql; sklearn,0,Bachelor's,10,5,0
+337,Mobile Developer,AlgoHub,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,airflow; tensorflow; docker,0,Bachelor's,10,3,0
+338,Frontend Developer,Snowflake,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,azure; mongodb; postgresql; spark; java; pandas,5,Master's,7,5,0
+339,Data Engineer,DataNova,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,javascript; angular; gcp; pytorch; vue; c++,7,Diploma,5,4,0
+340,Full-Stack Developer,DevWorks,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,c#; azure; python; mysql; linux; react; pandas,6,Bachelor's,11,3,1
+341,Data Engineer,Netflix,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,pytorch; react; mongodb; docker; tensorflow; spark,0,Bachelor's,8,3,0
+342,Data Scientist,DataNova,Calgary AB Canada,Data Scientist working on services; cloud; data; systems.,spark; git; c#; numpy,3,Master's,11,8,0
+343,Backend Developer,Snowflake,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,typescript; mysql; graphql,0,Bachelor's,8,2,0
+344,DevOps Engineer,IBM,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,c++; terraform; java; numpy; mysql,0,Bachelor's,13,4,0
+345,Data Scientist,Google,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,spark; git; rest; tensorflow,4,Master's,7,4,0
+346,Mobile Developer,DevWorks,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,postgresql; vue; linux,0,Bachelor's,12,4,0
+347,Data Engineer,CloudSpark,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,rest; c++; docker,0,Bachelor's,9,4,0
+348,ML Engineer,AlgoHub,Ottawa ON Canada,ML Engineer working on services; cloud; data; systems.,aws; rest; mysql; kubernetes,2,Master's,12,4,0
+349,Mobile Developer,Snowflake,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,sklearn; tensorflow; kubernetes; angular; pandas; aws; mysql,1,Diploma,0,1,0
+350,DevOps Engineer,DataNova,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,c++; mysql; linux; tensorflow; vue,5,Bachelor's,9,3,0
+351,ML Engineer,Snowflake,Quebec City QC Canada,ML Engineer working on services; cloud; data; systems.,c++; docker; rest; typescript; gcp,0,Master's,11,4,0
+352,Frontend Developer,Shopify,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,spark; angular; react; vue,3,Bachelor's,11,6,0
+353,Frontend Developer,Meta,Vancouver BC Canada,Frontend Developer working on services; cloud; data; systems.,graphql; java; spark; gcp; postgresql; terraform; sql,4,Master's,6,0,0
+354,Data Scientist,Amazon,Winnipeg MB Canada,Data Scientist working on services; cloud; data; systems.,mysql; vue; pytorch; kubernetes; javascript,6,Diploma,17,6,0
+355,Mobile Developer,Snowflake,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,pandas; azure; aws,3,Master's,6,5,0
+356,Data Engineer,Meta,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,typescript; docker; angular; vue; gcp,3,Master's,14,4,1
+357,Data Engineer,IBM,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,kubernetes; javascript; git; vue,3,Bachelor's,7,6,0
+358,Mobile Developer,AlgoHub,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,gcp; tensorflow; python; typescript,0,Bachelor's,8,5,0
+359,Mobile Developer,DevWorks,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,mysql; c#; pandas,2,Bachelor's,17,5,0
+360,Backend Developer,DevWorks,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,docker; rest; tensorflow; angular; postgresql; python; mongodb,3,Bachelor's,15,7,0
+361,Full-Stack Developer,DataNova,Halifax NS Canada,Full-Stack Developer working on services; cloud; data; systems.,git; azure; gcp; pytorch; numpy,4,Bachelor's,9,4,0
+362,DevOps Engineer,AlgoHub,Montreal QC Canada,DevOps Engineer working on services; cloud; data; systems.,mongodb; linux; terraform; kubernetes; mysql,0,Master's,10,4,1
+363,Full-Stack Developer,Microsoft,Ottawa ON Canada,Full-Stack Developer working on services; cloud; data; systems.,pytorch; spark; postgresql; numpy; kubernetes; azure,1,Master's,7,7,1
+364,Software Engineer,DevWorks,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,react; typescript; mysql,0,Bachelor's,10,5,0
+365,Mobile Developer,Google,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,javascript; c++; linux; mysql; nodejs; vue; tensorflow,3,Bachelor's,10,5,1
+366,Mobile Developer,Google,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,spark; gcp; aws; docker; rest,0,Bachelor's,9,7,0
+367,Mobile Developer,DataNova,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,linux; graphql; docker; nodejs; postgresql; gcp; airflow,1,Master's,6,5,0
+368,Data Engineer,Amazon,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,postgresql; nodejs; gcp; docker,3,Bachelor's,19,5,0
+369,DevOps Engineer,Google,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,postgresql; react; mongodb; docker; airflow; mysql; vue,0,Master's,6,6,0
+370,Data Engineer,Netflix,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,pytorch; tensorflow; terraform; rest; pandas; git; angular,2,Master's,8,8,0
+371,Data Engineer,AlgoHub,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,angular; pandas; terraform; gcp; react; sql,1,Bachelor's,12,5,0
+372,Frontend Developer,Netflix,Vancouver BC Canada,Frontend Developer working on services; cloud; data; systems.,vue; c++; javascript,0,Master's,13,5,0
+373,DevOps Engineer,Shopify,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,java; angular; pytorch; mysql,5,Bachelor's,13,7,1
+374,Data Scientist,AlgoHub,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,mysql; pytorch; aws; vue,0,Diploma,9,4,0
+375,Backend Developer,CloudSpark,Quebec City QC Canada,Backend Developer working on services; cloud; data; systems.,typescript; linux; numpy; java; rest,5,Bachelor's,7,4,0
+376,Data Scientist,Microsoft,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,c#; vue; linux; mongodb,5,Master's,9,6,0
+377,Backend Developer,NorthTech,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,javascript; postgresql; pytorch; c++; vue; typescript; gcp,0,Diploma,6,7,0
+378,Software Engineer,Microsoft,Toronto ON Canada,Software Engineer working on services; cloud; data; systems.,javascript; gcp; vue,4,Master's,8,7,0
+379,ML Engineer,DevWorks,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,gcp; pandas; aws,0,Master's,11,2,0
+380,Frontend Developer,Microsoft,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,rest; spark; docker; typescript; c++; azure; javascript,2,Bachelor's,3,6,0
+381,DevOps Engineer,NorthTech,Toronto ON Canada,DevOps Engineer working on services; cloud; data; systems.,pytorch; terraform; vue; sql; numpy,3,Bachelor's,10,9,0
+382,Full-Stack Developer,CloudSpark,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,nodejs; sql; mongodb; linux; rest; c#; tensorflow,4,Bachelor's,8,4,0
+383,Frontend Developer,AlgoHub,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,git; gcp; azure; terraform; pandas; kubernetes,0,Bachelor's,10,4,0
+384,Backend Developer,Apple,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,aws; tensorflow; linux,4,Diploma,15,6,0
+385,Data Engineer,NorthTech,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,sklearn; nodejs; c++,2,Master's,11,9,1
+386,Full-Stack Developer,IBM,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,kubernetes; linux; graphql; typescript,0,Bachelor's,5,4,0
+387,ML Engineer,DevWorks,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,azure; sql; git; typescript; docker; terraform,3,Master's,12,3,0
+388,ML Engineer,IBM,Ottawa ON Canada,ML Engineer working on services; cloud; data; systems.,terraform; vue; kubernetes; docker; react,3,Bachelor's,6,6,0
+389,ML Engineer,Shopify,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,azure; javascript; airflow,7,Bachelor's,11,4,1
+390,ML Engineer,NorthTech,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,rest; docker; azure; kubernetes; javascript,7,Master's,13,6,1
+391,Data Scientist,DataNova,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,rest; react; numpy; c++; airflow; sql; gcp,0,Bachelor's,14,6,0
+392,Backend Developer,CloudSpark,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,mysql; c++; pytorch; java; airflow; sql; postgresql,5,Master's,13,3,0
+393,Backend Developer,DevWorks,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,java; nodejs; azure; graphql; sql; docker,5,Master's,10,3,0
+394,Frontend Developer,CloudSpark,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,pytorch; terraform; kubernetes; azure; c++; vue,2,Bachelor's,3,6,1
+395,ML Engineer,Shopify,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,mongodb; pytorch; pandas; javascript; rest; spark; gcp,2,Bachelor's,11,2,0
+396,Full-Stack Developer,DataNova,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,c++; angular; pytorch; mongodb,5,Bachelor's,6,9,1
+397,Data Engineer,Microsoft,Edmonton AB Canada,Data Engineer working on services; cloud; data; systems.,typescript; postgresql; terraform; sklearn; tensorflow,2,Bachelor's,9,4,1
+398,Full-Stack Developer,CloudSpark,Montréal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,c#; numpy; java,3,Master's,10,7,1
+399,Data Scientist,Microsoft,Toronto ON Canada,Data Scientist working on services; cloud; data; systems.,numpy; docker; react; azure,2,Bachelor's,10,5,0
+400,Frontend Developer,IBM,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,angular; typescript; java,1,Master's,8,8,0
+401,Software Engineer,CloudSpark,Winnipeg MB Canada,Software Engineer working on services; cloud; data; systems.,spark; c#; python; nodejs; airflow,4,Bachelor's,5,4,0
+402,Backend Developer,Shopify,Ottawa ON Canada,Backend Developer working on services; cloud; data; systems.,react; azure; graphql; aws,5,Bachelor's,4,4,1
+403,Mobile Developer,Microsoft,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,linux; nodejs; vue; azure; angular,5,Master's,11,6,0
+404,Software Engineer,Netflix,Quebec City QC Canada,Software Engineer working on services; cloud; data; systems.,git; javascript; c++; numpy; mysql; azure,0,Bachelor's,15,4,0
+405,Full-Stack Developer,Apple,Edmonton AB Canada,Full-Stack Developer working on services; cloud; data; systems.,docker; javascript; react; linux; rest; kubernetes,2,Bachelor's,15,1,0
+406,Data Scientist,Amazon,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,linux; rest; kubernetes; typescript,2,Diploma,8,7,0
+407,Backend Developer,Microsoft,Montreal QC Canada,Backend Developer working on services; cloud; data; systems.,graphql; mongodb; nodejs; aws; numpy; linux,7,Bachelor's,11,6,0
+408,Backend Developer,Amazon,Montreal QC Canada,Backend Developer working on services; cloud; data; systems.,angular; terraform; kubernetes; rest; vue; spark; sklearn,0,PhD,10,5,1
+409,DevOps Engineer,Snowflake,Montreal QC Canada,DevOps Engineer working on services; cloud; data; systems.,gcp; graphql; javascript; typescript; react; vue,5,Bachelor's,8,8,1
+410,Data Scientist,Apple,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,c++; typescript; rest; graphql,3,PhD,18,4,0
+411,ML Engineer,Apple,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,mysql; terraform; graphql; numpy; kubernetes,0,Master's,5,3,0
+412,Software Engineer,Meta,Quebec City QC Canada,Software Engineer working on services; cloud; data; systems.,airflow; vue; azure,1,Master's,0,3,1
+413,Data Engineer,NorthTech,Quebec City QC Canada,Data Engineer working on services; cloud; data; systems.,pytorch; sklearn; nodejs; aws; typescript,2,Bachelor's,13,2,1
+414,Mobile Developer,Shopify,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,c#; typescript; pytorch; kubernetes; pandas; docker; javascript,6,Bachelor's,7,6,1
+415,DevOps Engineer,DevWorks,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,pandas; numpy; c#; c++,7,Master's,12,6,0
+416,Mobile Developer,DevWorks,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,mysql; docker; java; pytorch,4,Bachelor's,11,6,0
+417,Frontend Developer,AlgoHub,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,nodejs; linux; typescript; c#; javascript; react,1,Master's,10,8,1
+418,DevOps Engineer,Snowflake,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,vue; react; kubernetes; git; gcp; aws,6,Master's,9,5,0
+419,Full-Stack Developer,Netflix,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,java; linux; postgresql; javascript,3,Bachelor's,9,7,0
+420,Data Scientist,Meta,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,typescript; git; nodejs; terraform,0,Bachelor's,7,2,0
+421,Mobile Developer,Shopify,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,postgresql; airflow; mysql; sklearn; c++,5,Bachelor's,11,5,1
+422,DevOps Engineer,Meta,Montreal QC Canada,DevOps Engineer working on services; cloud; data; systems.,mongodb; azure; react; pandas; airflow; terraform; java,0,Bachelor's,15,7,0
+423,Backend Developer,DevWorks,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,spark; sql; angular; azure; kubernetes; terraform; postgresql,4,Diploma,9,7,0
+424,DevOps Engineer,NorthTech,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,react; python; c#; aws; linux,0,Master's,11,1,0
+425,Data Engineer,Google,Edmonton AB Canada,Data Engineer working on services; cloud; data; systems.,pandas; nodejs; angular; tensorflow,2,Bachelor's,10,6,0
+426,Software Engineer,CloudSpark,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,terraform; python; sklearn; typescript; react; sql; tensorflow,3,Bachelor's,14,4,0
+427,Software Engineer,Shopify,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,tensorflow; sklearn; mongodb; numpy; java; azure,2,Bachelor's,3,4,0
+428,Mobile Developer,Apple,Toronto ON Canada,Mobile Developer working on services; cloud; data; systems.,c++; javascript; angular; sklearn; python,5,Bachelor's,8,6,0
+429,Frontend Developer,DataNova,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,pandas; java; angular; mongodb; c++,4,Bachelor's,5,3,0
+430,Data Scientist,Snowflake,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,pytorch; react; rest,3,Bachelor's,14,6,0
+431,Mobile Developer,Apple,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,javascript; pytorch; spark; c#; sklearn,3,Bachelor's,8,7,0
+432,Full-Stack Developer,Shopify,Toronto ON Canada,Full-Stack Developer working on services; cloud; data; systems.,python; nodejs; rest,2,Master's,17,6,0
+433,ML Engineer,Google,Winnipeg MB Canada,ML Engineer working on services; cloud; data; systems.,linux; airflow; react; sql; nodejs,0,Master's,9,4,0
+434,Backend Developer,Amazon,Calgary AB Canada,Backend Developer working on services; cloud; data; systems.,docker; azure; c#; react; graphql; postgresql; sklearn,1,Bachelor's,9,6,0
+435,Data Scientist,Apple,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,javascript; python; gcp,1,Bachelor's,7,5,0
+436,Backend Developer,IBM,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,linux; sklearn; pandas; airflow; aws; terraform; postgresql,0,Bachelor's,7,8,0
+437,Mobile Developer,NorthTech,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,c#; aws; nodejs; git; linux; pandas,5,Bachelor's,13,5,0
+438,Frontend Developer,Netflix,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,tensorflow; spark; airflow; sql; aws,4,Bachelor's,9,5,1
+439,DevOps Engineer,AlgoHub,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,mysql; sklearn; pandas,0,Master's,8,5,0
+440,Data Scientist,Shopify,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,vue; docker; typescript; gcp; mysql; c++; sql,1,Bachelor's,11,8,0
+441,Data Engineer,NorthTech,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,sklearn; gcp; c#; kubernetes; terraform; aws; sql,4,Master's,15,1,1
+442,Data Engineer,DataNova,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,sql; gcp; linux; git; java; c++,0,Master's,10,6,0
+443,Software Engineer,CloudSpark,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,react; git; airflow; sql,0,Bachelor's,13,3,0
+444,Data Engineer,Meta,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,mysql; spark; javascript; rest; nodejs; java; postgresql,5,Master's,19,2,1
+445,Mobile Developer,Meta,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,linux; sql; pandas; mysql; spark; sklearn,6,Master's,16,4,1
+446,Frontend Developer,Snowflake,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,javascript; nodejs; spark; git; graphql; sklearn,3,Diploma,15,5,1
+447,DevOps Engineer,Amazon,Edmonton AB Canada,DevOps Engineer working on services; cloud; data; systems.,rest; mongodb; terraform; typescript; aws; azure; graphql,0,Master's,12,3,0
+448,Frontend Developer,DataNova,Edmonton AB Canada,Frontend Developer working on services; cloud; data; systems.,pandas; azure; angular; mongodb,0,Bachelor's,14,3,1
+449,Software Engineer,Shopify,Halifax NS Canada,Software Engineer working on services; cloud; data; systems.,numpy; azure; spark; pytorch,0,Bachelor's,11,5,1
+450,Backend Developer,Shopify,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,git; linux; docker,1,Master's,11,3,1
+451,ML Engineer,NorthTech,Quebec City QC Canada,ML Engineer working on services; cloud; data; systems.,mongodb; postgresql; graphql; tensorflow; nodejs,1,Bachelor's,6,4,0
+452,Data Scientist,Netflix,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,kubernetes; java; git; nodejs,0,Bachelor's,12,2,0
+453,Backend Developer,Snowflake,Montreal QC Canada,Backend Developer working on services; cloud; data; systems.,spark; angular; python; numpy; c#,0,Master's,15,1,0
+454,DevOps Engineer,NorthTech,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,gcp; typescript; tensorflow; azure,0,Master's,12,3,1
+455,Frontend Developer,AlgoHub,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,git; aws; numpy; linux,2,Bachelor's,9,6,0
+456,Software Engineer,NorthTech,Calgary AB Canada,Software Engineer working on services; cloud; data; systems.,mysql; gcp; nodejs; rest; numpy; pytorch,7,Bachelor's,12,4,0
+457,Data Engineer,Netflix,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,mysql; git; sql; azure; rest; java,3,Master's,11,7,0
+458,Data Engineer,CloudSpark,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,tensorflow; c#; angular; linux; kubernetes,7,Bachelor's,5,7,0
+459,Full-Stack Developer,Microsoft,Quebec City QC Canada,Full-Stack Developer working on services; cloud; data; systems.,sklearn; c++; python,2,PhD,10,3,0
+460,ML Engineer,DevWorks,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,terraform; c++; java,0,Bachelor's,15,3,0
+461,Backend Developer,Meta,Vancouver BC Canada,Backend Developer working on services; cloud; data; systems.,tensorflow; typescript; airflow; c#; pandas; rest; angular,4,Bachelor's,3,4,1
+462,DevOps Engineer,NorthTech,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,angular; typescript; pytorch; c++; java,5,Diploma,7,6,1
+463,Data Scientist,Shopify,Montreal QC Canada,Data Scientist working on services; cloud; data; systems.,c#; javascript; docker; pytorch; mongodb; react,0,Diploma,13,4,0
+464,Data Scientist,Google,Vancouver BC Canada,Data Scientist working on services; cloud; data; systems.,pytorch; aws; python; airflow; gcp,0,Bachelor's,13,7,0
+465,Data Engineer,Amazon,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,gcp; mongodb; mysql; spark; numpy; pytorch,1,Diploma,8,5,1
+466,Data Engineer,Meta,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,sql; git; nodejs; mysql; java,2,Diploma,3,1,1
+467,Mobile Developer,Meta,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,java; mysql; git; react; nodejs; pandas; rest,5,Master's,13,7,0
+468,Backend Developer,DevWorks,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,numpy; kubernetes; vue,0,Bachelor's,8,4,0
+469,Data Scientist,Snowflake,Winnipeg MB Canada,Data Scientist working on services; cloud; data; systems.,java; sql; tensorflow; numpy; mysql,6,Master's,10,7,0
+470,DevOps Engineer,Amazon,Quebec City QC Canada,DevOps Engineer working on services; cloud; data; systems.,java; numpy; javascript,4,Bachelor's,9,5,0
+471,Software Engineer,DevWorks,Montréal QC Canada,Software Engineer working on services; cloud; data; systems.,aws; terraform; typescript,0,Bachelor's,3,5,0
+472,Backend Developer,DataNova,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,mongodb; sql; tensorflow; sklearn,2,Bachelor's,16,4,0
+473,Mobile Developer,Microsoft,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,c++; c#; angular; javascript; pytorch,6,Master's,5,2,0
+474,DevOps Engineer,DataNova,Montréal QC Canada,DevOps Engineer working on services; cloud; data; systems.,mysql; pytorch; typescript; python; gcp; c++; spark,1,Bachelor's,19,5,0
+475,Data Scientist,DevWorks,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,azure; aws; mongodb; vue; graphql,5,Master's,7,6,0
+476,DevOps Engineer,Meta,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,mongodb; python; docker; vue; react,5,Master's,14,6,1
+477,ML Engineer,Snowflake,Quebec City QC Canada,ML Engineer working on services; cloud; data; systems.,c#; tensorflow; javascript; git,0,Master's,7,7,0
+478,Frontend Developer,Google,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,angular; sql; terraform; tensorflow; pytorch; aws,0,Bachelor's,16,6,0
+479,Frontend Developer,NorthTech,Montreal QC Canada,Frontend Developer working on services; cloud; data; systems.,kubernetes; graphql; sql; mongodb; react; numpy,0,Bachelor's,11,4,0
+480,ML Engineer,Meta,Montréal QC Canada,ML Engineer working on services; cloud; data; systems.,mysql; airflow; vue; c++,0,Bachelor's,5,5,0
+481,Frontend Developer,DataNova,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,angular; react; sql; javascript; java,4,Bachelor's,15,4,1
+482,DevOps Engineer,IBM,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,terraform; typescript; tensorflow; linux; graphql,0,Bachelor's,8,4,0
+483,Full-Stack Developer,IBM,Vancouver BC Canada,Full-Stack Developer working on services; cloud; data; systems.,angular; python; numpy; mongodb; airflow; vue,8,Bachelor's,10,5,1
+484,Frontend Developer,Google,Halifax NS Canada,Frontend Developer working on services; cloud; data; systems.,numpy; pytorch; azure; java; mongodb; airflow,4,Bachelor's,4,7,0
+485,Backend Developer,Shopify,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,javascript; postgresql; nodejs; vue,2,Bachelor's,10,4,0
+486,Data Scientist,DevWorks,Montreal QC Canada,Data Scientist working on services; cloud; data; systems.,python; aws; rest; pytorch; javascript; pandas; mysql,2,Bachelor's,13,8,0
+487,Software Engineer,IBM,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,pandas; graphql; terraform; docker; kubernetes,7,Bachelor's,11,6,1
+488,ML Engineer,Snowflake,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,c#; mysql; postgresql,3,Master's,9,5,0
+489,Mobile Developer,Snowflake,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,linux; gcp; numpy,4,Bachelor's,9,7,0
+490,Full-Stack Developer,Microsoft,Montréal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,angular; java; c++; postgresql; spark; aws,2,Bachelor's,5,5,1
+491,Mobile Developer,Netflix,Quebec City QC Canada,Mobile Developer working on services; cloud; data; systems.,react; airflow; aws,1,Bachelor's,5,6,1
+492,Backend Developer,Amazon,Vancouver BC Canada,Backend Developer working on services; cloud; data; systems.,javascript; spark; react; azure; linux; python,0,Master's,7,10,0
+493,Frontend Developer,Microsoft,Winnipeg MB Canada,Frontend Developer working on services; cloud; data; systems.,spark; tensorflow; vue,3,Master's,10,6,0
+494,ML Engineer,Shopify,Ottawa ON Canada,ML Engineer working on services; cloud; data; systems.,aws; graphql; nodejs; kubernetes; javascript; tensorflow; airflow,1,Master's,11,6,0
+495,Data Scientist,Amazon,Toronto ON Canada,Data Scientist working on services; cloud; data; systems.,nodejs; typescript; rest; sklearn; pandas; spark; git,4,Bachelor's,18,5,1
+496,ML Engineer,Amazon,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,docker; pandas; java; git,2,Bachelor's,9,6,0
+497,Mobile Developer,Snowflake,Montreal QC Canada,Mobile Developer working on services; cloud; data; systems.,graphql; aws; rest; sql,1,Diploma,12,8,0
+498,Mobile Developer,CloudSpark,Ottawa ON Canada,Mobile Developer working on services; cloud; data; systems.,graphql; pytorch; kubernetes; git; javascript,6,Bachelor's,12,2,0
+499,ML Engineer,DevWorks,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,mysql; terraform; sklearn,2,Bachelor's,8,5,0
+500,Full-Stack Developer,Snowflake,Halifax NS Canada,Full-Stack Developer working on services; cloud; data; systems.,react; python; c++; docker; spark,1,Diploma,4,6,1
+501,Mobile Developer,Apple,Edmonton AB Canada,Mobile Developer working on services; cloud; data; systems.,mysql; javascript; pandas; spark; mongodb,2,Master's,10,3,0
+502,ML Engineer,Shopify,Calgary AB Canada,ML Engineer working on services; cloud; data; systems.,numpy; mongodb; tensorflow; aws; nodejs; typescript,7,Bachelor's,14,0,0
+503,Data Engineer,AlgoHub,Montreal QC Canada,Data Engineer working on services; cloud; data; systems.,sql; c++; kubernetes; pytorch; mysql; rest; python,3,Bachelor's,14,1,0
+504,Mobile Developer,DevWorks,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,typescript; sklearn; mysql; nodejs,4,Diploma,8,4,0
+505,Data Scientist,Snowflake,Winnipeg MB Canada,Data Scientist working on services; cloud; data; systems.,graphql; linux; sklearn; gcp; c#,3,Bachelor's,8,2,0
+506,DevOps Engineer,Google,Montréal QC Canada,DevOps Engineer working on services; cloud; data; systems.,terraform; numpy; postgresql,0,Bachelor's,5,3,0
+507,DevOps Engineer,Microsoft,Vancouver BC Canada,DevOps Engineer working on services; cloud; data; systems.,javascript; sql; aws,3,Bachelor's,8,5,1
+508,Data Scientist,IBM,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,nodejs; azure; linux,2,Diploma,14,4,0
+509,Frontend Developer,DataNova,Vancouver BC Canada,Frontend Developer working on services; cloud; data; systems.,angular; git; pandas; postgresql; c#,4,Bachelor's,4,3,1
+510,Frontend Developer,Netflix,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,rest; typescript; c#; react; javascript,2,Bachelor's,2,5,0
+511,Mobile Developer,DevWorks,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,mongodb; aws; rest,4,Bachelor's,9,8,0
+512,DevOps Engineer,Netflix,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,airflow; terraform; azure; pytorch; sql; typescript,4,Bachelor's,10,4,0
+513,Full-Stack Developer,AlgoHub,Montreal QC Canada,Full-Stack Developer working on services; cloud; data; systems.,mongodb; pandas; pytorch,2,Master's,12,5,0
+514,Data Engineer,Apple,Toronto ON Canada,Data Engineer working on services; cloud; data; systems.,kubernetes; java; gcp; c#; angular; rest; c++,0,Master's,10,5,1
+515,Backend Developer,Apple,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,spark; numpy; graphql; angular,2,Bachelor's,9,7,1
+516,Mobile Developer,Apple,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,pytorch; python; azure; react; pandas; spark; nodejs,2,Bachelor's,13,8,1
+517,Backend Developer,Snowflake,Montréal QC Canada,Backend Developer working on services; cloud; data; systems.,typescript; sklearn; postgresql,5,Bachelor's,8,7,0
+518,Data Engineer,NorthTech,Vancouver BC Canada,Data Engineer working on services; cloud; data; systems.,azure; javascript; gcp,5,Bachelor's,10,1,0
+519,Software Engineer,Microsoft,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,vue; docker; mongodb; nodejs; airflow; react,0,Bachelor's,12,7,0
+520,ML Engineer,Google,Montreal QC Canada,ML Engineer working on services; cloud; data; systems.,mysql; aws; azure,3,Bachelor's,9,4,1
+521,Data Engineer,Meta,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,sql; react; terraform; spark,3,Master's,13,6,0
+522,DevOps Engineer,NorthTech,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,pytorch; tensorflow; linux; graphql; mysql,2,Bachelor's,6,7,0
+523,DevOps Engineer,Netflix,Quebec City QC Canada,DevOps Engineer working on services; cloud; data; systems.,linux; graphql; javascript; python,1,Bachelor's,13,5,1
+524,Software Engineer,IBM,Montreal QC Canada,Software Engineer working on services; cloud; data; systems.,terraform; c#; pytorch; c++; git,3,Bachelor's,10,1,0
+525,Full-Stack Developer,CloudSpark,Calgary AB Canada,Full-Stack Developer working on services; cloud; data; systems.,docker; python; pytorch; java; mongodb; c#; mysql,0,Bachelor's,8,1,0
+526,Software Engineer,Amazon,Toronto ON Canada,Software Engineer working on services; cloud; data; systems.,airflow; pandas; typescript; gcp; mongodb,3,Master's,14,7,0
+527,Backend Developer,CloudSpark,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,spark; typescript; azure; java; mysql; angular; gcp,1,Bachelor's,9,3,0
+528,Data Scientist,Google,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,postgresql; tensorflow; numpy; kubernetes; python,0,Bachelor's,10,2,0
+529,Data Engineer,Microsoft,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,kubernetes; c++; rest; pandas; spark,3,Bachelor's,13,4,1
+530,ML Engineer,Shopify,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,airflow; mongodb; angular; python; pandas; gcp; kubernetes,4,Bachelor's,13,5,0
+531,ML Engineer,Meta,Halifax NS Canada,ML Engineer working on services; cloud; data; systems.,tensorflow; pytorch; git; sql; typescript; terraform; nodejs,5,Bachelor's,7,3,0
+532,Backend Developer,Apple,Quebec City QC Canada,Backend Developer working on services; cloud; data; systems.,mysql; tensorflow; vue; terraform; numpy; c++; pandas,1,Bachelor's,11,4,0
+533,Backend Developer,NorthTech,Halifax NS Canada,Backend Developer working on services; cloud; data; systems.,azure; tensorflow; nodejs; mongodb; git,2,Bachelor's,11,3,0
+534,Mobile Developer,CloudSpark,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,linux; pandas; azure,2,Bachelor's,13,3,1
+535,DevOps Engineer,CloudSpark,Calgary AB Canada,DevOps Engineer working on services; cloud; data; systems.,numpy; linux; java; azure; react; postgresql; aws,3,Master's,6,5,0
+536,Data Scientist,IBM,Edmonton AB Canada,Data Scientist working on services; cloud; data; systems.,linux; react; spark,3,Master's,4,7,0
+537,Data Scientist,Apple,Halifax NS Canada,Data Scientist working on services; cloud; data; systems.,aws; gcp; docker; mongodb; linux,3,Bachelor's,13,6,0
+538,Software Engineer,NorthTech,Calgary AB Canada,Software Engineer working on services; cloud; data; systems.,linux; spark; java; graphql,5,Master's,9,1,1
+539,Backend Developer,DataNova,Ottawa ON Canada,Backend Developer working on services; cloud; data; systems.,mysql; graphql; sklearn,3,Bachelor's,7,4,1
+540,Mobile Developer,Snowflake,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,angular; gcp; airflow; c++; vue; terraform; c#,2,Bachelor's,10,3,0
+541,Data Engineer,IBM,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,angular; spark; kubernetes; java; gcp; docker,0,Bachelor's,13,1,0
+542,Data Engineer,CloudSpark,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,postgresql; gcp; pandas; sklearn,2,Bachelor's,7,7,0
+543,Software Engineer,DevWorks,Toronto ON Canada,Software Engineer working on services; cloud; data; systems.,airflow; tensorflow; git; c#; docker,5,Master's,14,7,0
+544,Data Engineer,Netflix,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,nodejs; react; spark; airflow,0,Master's,12,7,0
+545,Data Engineer,Netflix,Toronto ON Canada,Data Engineer working on services; cloud; data; systems.,rest; sklearn; sql; pandas; mongodb; c#,7,Master's,9,6,0
+546,ML Engineer,DataNova,Edmonton AB Canada,ML Engineer working on services; cloud; data; systems.,aws; pandas; python; pytorch; java,0,Bachelor's,8,4,0
+547,Frontend Developer,IBM,Toronto ON Canada,Frontend Developer working on services; cloud; data; systems.,azure; pandas; pytorch; sklearn,0,Bachelor's,9,4,0
+548,Data Engineer,Shopify,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,typescript; git; kubernetes; sklearn; sql,2,Master's,11,3,0
+549,Frontend Developer,IBM,Edmonton AB Canada,Frontend Developer working on services; cloud; data; systems.,linux; terraform; graphql; vue; c++; aws; react,6,Master's,20,5,1
+550,Data Engineer,Netflix,Halifax NS Canada,Data Engineer working on services; cloud; data; systems.,graphql; kubernetes; c#; python,2,Diploma,9,3,0
+551,DevOps Engineer,Meta,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,nodejs; numpy; gcp; mysql; javascript,2,Bachelor's,7,3,1
+552,Data Scientist,IBM,Montréal QC Canada,Data Scientist working on services; cloud; data; systems.,nodejs; angular; vue,0,Master's,3,2,0
+553,DevOps Engineer,Google,Vancouver BC Canada,DevOps Engineer working on services; cloud; data; systems.,pandas; mysql; mongodb; numpy,4,Master's,9,4,0
+554,Software Engineer,Apple,Ottawa ON Canada,Software Engineer working on services; cloud; data; systems.,graphql; git; tensorflow; terraform; pandas; numpy; java,2,Bachelor's,15,5,0
+555,Data Engineer,Amazon,Ottawa ON Canada,Data Engineer working on services; cloud; data; systems.,gcp; rest; sql; aws; javascript; c++; airflow,4,Bachelor's,9,4,1
+556,ML Engineer,Amazon,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,numpy; postgresql; rest; mongodb; nodejs,1,Diploma,12,4,0
+557,Data Scientist,Microsoft,Quebec City QC Canada,Data Scientist working on services; cloud; data; systems.,docker; spark; rest; git,2,Bachelor's,5,3,1
+558,Software Engineer,Amazon,Montréal QC Canada,Software Engineer working on services; cloud; data; systems.,mongodb; c#; airflow; gcp; java; aws,0,Bachelor's,6,7,0
+559,DevOps Engineer,AlgoHub,Vancouver BC Canada,DevOps Engineer working on services; cloud; data; systems.,typescript; sklearn; numpy; azure; angular,2,Bachelor's,12,2,0
+560,Software Engineer,NorthTech,Quebec City QC Canada,Software Engineer working on services; cloud; data; systems.,vue; pytorch; gcp,2,Bachelor's,6,1,1
+561,Backend Developer,Microsoft,Edmonton AB Canada,Backend Developer working on services; cloud; data; systems.,aws; sklearn; pandas,3,Diploma,8,3,0
+562,Software Engineer,Google,Ottawa ON Canada,Software Engineer working on services; cloud; data; systems.,graphql; numpy; rest; tensorflow; kubernetes,1,Diploma,15,8,0
+563,Data Scientist,NorthTech,Ottawa ON Canada,Data Scientist working on services; cloud; data; systems.,angular; typescript; vue; pytorch; mysql; c++,1,Bachelor's,8,6,0
+564,Data Engineer,CloudSpark,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,nodejs; gcp; tensorflow,3,Master's,3,6,0
+565,Frontend Developer,CloudSpark,Ottawa ON Canada,Frontend Developer working on services; cloud; data; systems.,gcp; angular; kubernetes; terraform; mongodb; c++,0,Bachelor's,14,5,0
+566,Data Engineer,Meta,Edmonton AB Canada,Data Engineer working on services; cloud; data; systems.,git; vue; linux; graphql; pandas; javascript,0,Bachelor's,14,4,0
+567,Backend Developer,Shopify,Calgary AB Canada,Backend Developer working on services; cloud; data; systems.,git; airflow; nodejs; sklearn,2,Diploma,10,5,0
+568,Mobile Developer,Google,Vancouver BC Canada,Mobile Developer working on services; cloud; data; systems.,c#; aws; git; numpy; kubernetes; angular,4,Bachelor's,7,7,0
+569,Software Engineer,DevWorks,Vancouver BC Canada,Software Engineer working on services; cloud; data; systems.,mongodb; airflow; pandas,3,Bachelor's,13,4,0
+570,DevOps Engineer,NorthTech,Halifax NS Canada,DevOps Engineer working on services; cloud; data; systems.,react; typescript; c++; numpy,1,Diploma,12,4,0
+571,Data Engineer,Google,Quebec City QC Canada,Data Engineer working on services; cloud; data; systems.,spark; git; numpy; terraform; airflow; gcp,0,Bachelor's,14,3,0
+572,Data Engineer,Meta,Calgary AB Canada,Data Engineer working on services; cloud; data; systems.,sklearn; python; pandas,2,Bachelor's,18,4,1
+573,Frontend Developer,IBM,Montréal QC Canada,Frontend Developer working on services; cloud; data; systems.,javascript; gcp; mongodb; python; c#; typescript,5,Master's,10,7,0
+574,DevOps Engineer,Google,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,nodejs; kubernetes; sklearn; mysql,4,Bachelor's,11,5,0
+575,Data Engineer,AlgoHub,Edmonton AB Canada,Data Engineer working on services; cloud; data; systems.,gcp; mysql; azure,2,Bachelor's,0,2,0
+576,DevOps Engineer,DevWorks,Montréal QC Canada,DevOps Engineer working on services; cloud; data; systems.,sql; docker; c++; angular; linux; mongodb; gcp,0,Bachelor's,13,6,0
+577,DevOps Engineer,Google,Edmonton AB Canada,DevOps Engineer working on services; cloud; data; systems.,vue; kubernetes; git; sql; terraform; pandas; airflow,0,Master's,11,1,0
+578,Data Engineer,AlgoHub,Edmonton AB Canada,Data Engineer working on services; cloud; data; systems.,tensorflow; gcp; spark; typescript; terraform,6,Master's,11,8,1
+579,DevOps Engineer,Amazon,Montreal QC Canada,DevOps Engineer working on services; cloud; data; systems.,nodejs; vue; react; docker; java; python,1,Master's,12,4,0
+580,Frontend Developer,Google,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,terraform; vue; c#,6,Bachelor's,6,4,0
+581,ML Engineer,NorthTech,Toronto ON Canada,ML Engineer working on services; cloud; data; systems.,terraform; git; c#; pandas; java; aws; tensorflow,7,Bachelor's,15,8,0
+582,Backend Developer,Google,Quebec City QC Canada,Backend Developer working on services; cloud; data; systems.,spark; react; rest,2,Bachelor's,6,7,0
+583,Mobile Developer,DevWorks,Winnipeg MB Canada,Mobile Developer working on services; cloud; data; systems.,spark; react; aws,4,Bachelor's,15,8,1
+584,DevOps Engineer,Netflix,Ottawa ON Canada,DevOps Engineer working on services; cloud; data; systems.,pandas; pytorch; mongodb; postgresql; linux,2,Bachelor's,9,4,0
+585,Data Engineer,Amazon,Montréal QC Canada,Data Engineer working on services; cloud; data; systems.,tensorflow; git; postgresql; python; aws; javascript; pytorch,4,Bachelor's,13,8,0
+586,Backend Developer,Microsoft,Ottawa ON Canada,Backend Developer working on services; cloud; data; systems.,java; mysql; pytorch; graphql; git; linux,3,Master's,13,7,0
+587,Mobile Developer,IBM,Calgary AB Canada,Mobile Developer working on services; cloud; data; systems.,rest; postgresql; python; sklearn; angular,1,Master's,9,7,1
+588,Data Engineer,CloudSpark,Winnipeg MB Canada,Data Engineer working on services; cloud; data; systems.,linux; aws; pandas; postgresql; tensorflow; sklearn; graphql,0,Bachelor's,7,5,0
+589,Software Engineer,Microsoft,Quebec City QC Canada,Software Engineer working on services; cloud; data; systems.,nodejs; react; c++; azure; docker; graphql; spark,4,Master's,7,3,1
+590,Mobile Developer,Netflix,Halifax NS Canada,Mobile Developer working on services; cloud; data; systems.,azure; c#; numpy; java; sklearn; postgresql,1,Master's,10,7,1
+591,Backend Developer,Netflix,Winnipeg MB Canada,Backend Developer working on services; cloud; data; systems.,kubernetes; pandas; airflow; linux; git; docker; terraform,2,Bachelor's,12,5,0
+592,Frontend Developer,Snowflake,Edmonton AB Canada,Frontend Developer working on services; cloud; data; systems.,kubernetes; react; sklearn; pytorch; postgresql; aws; c#,4,Bachelor's,12,6,0
+593,Backend Developer,IBM,Toronto ON Canada,Backend Developer working on services; cloud; data; systems.,mysql; kubernetes; docker; azure; pytorch; graphql; angular,4,Bachelor's,11,2,0
+594,DevOps Engineer,AlgoHub,Edmonton AB Canada,DevOps Engineer working on services; cloud; data; systems.,pandas; aws; javascript; graphql; azure; sklearn,0,Bachelor's,11,5,0
+595,Frontend Developer,Microsoft,Quebec City QC Canada,Frontend Developer working on services; cloud; data; systems.,kubernetes; nodejs; java; azure; javascript,6,Bachelor's,8,6,0
+596,Data Scientist,Google,Winnipeg MB Canada,Data Scientist working on services; cloud; data; systems.,mongodb; java; airflow; nodejs; spark; react; typescript,3,Bachelor's,12,3,1
+597,ML Engineer,AlgoHub,Vancouver BC Canada,ML Engineer working on services; cloud; data; systems.,tensorflow; mysql; gcp; sklearn; numpy,0,Bachelor's,13,5,1
+598,DevOps Engineer,CloudSpark,Winnipeg MB Canada,DevOps Engineer working on services; cloud; data; systems.,c++; tensorflow; terraform; git; mongodb,2,Master's,3,7,0
+599,Software Engineer,DevWorks,Winnipeg MB Canada,Software Engineer working on services; cloud; data; systems.,docker; linux; c#; c++; react,0,Bachelor's,10,7,0
+600,Mobile Developer,NorthTech,Montréal QC Canada,Mobile Developer working on services; cloud; data; systems.,git; rest; docker,2,Master's,10,5,0

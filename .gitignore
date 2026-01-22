@@ -1,0 +1,16 @@
+# Ignore large local datasets and outputs
+jobfull/data/stack-overflow-developer-survey-2025/
+jobfull/data/processed/*.csv
+jobfull/data/raw/*.csv
+
+# Python/cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/

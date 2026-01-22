@@ -1,0 +1,10 @@
+title,location,company_name,company_type,seniority_level,experience_years,education,skills,callbacks,interviews,offers,accepted
+Software Engineer,Montreal QC Canada,Google,FAANG,Mid,2,Bachelor's,c++;gcp,20,10,2,1
+Data Scientist,Montreal QC Canada,StartupX,Startup,Mid,1,Master's,nlp;sql;scikit-learn,15,7,1,1
+Backend Developer,Montréal QC Canada,MidCorp,Mid-size/Other,Mid,3,Bachelor's,postgresql;docker;spring;aws,10,5,1,1
+Frontend Developer,Montreal QC Canada,FAANGY,Mid-size/Other,Mid,2,Bachelor's,react;typescript,12,6,1,1
+Machine Learning Engineer,Montreal QC Canada,BigTechZ,Mid-size/Other,Mid,4,Master's,deep learning;pytorch;azure,18,9,2,1
+Software Engineer,Quebec City QC Canada,SmallCo,Mid-size/Other,Mid,1,Bachelor's,python;sql;flask,8,3,0,0
+Senior Data Engineer,Montreal QC Canada,StartupY,Startup,Senior,6,Bachelor's,etl;spark;aws;docker,14,8,2,1
+Junior Developer,Montreal QC Canada,IndieDev,Mid-size/Other,Entry,0,Bachelor's,git,9,3,0,0
+Data Analyst,Montréal QC Canada,AnalyticsHub,Mid-size/Other,Mid,2,Bachelor's,sql;excel;powerbi,11,4,0,0
